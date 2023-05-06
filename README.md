@@ -26,4 +26,5 @@ The metrics extracted are the following:
 <li>Number of closing gateways</li>
 <li>Number of activities</li>
 </ul>
+<br>
 Further information is included in the user manual also included in the repository, but it's only available in spanish (also excuse the weird numbering and lack of references, it's taken out of a bigger PDF file. Maybe will fix later.)
